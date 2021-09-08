@@ -1,5 +1,5 @@
 # DD1385-Software-Engineering-project-CHESS
-The final project in DD1385 Software Engineering. I made a chess following the mvc design pattern in Java, also implementing parts from other design patterns e.g factory pattern and composite pattern. 
+The final project in th course *DD1385 Software Engineering*. I programmed a Chess following the _MVC_ design pattern in Java, also implementing parts from other design patterns e.g _Factory_ pattern and _Composite_ pattern. 
 
 ## Technologies
 
